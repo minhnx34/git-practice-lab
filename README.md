@@ -1,1 +1,2 @@
-# git-practice-lab
+# Git Practice Lab
+Initial version
